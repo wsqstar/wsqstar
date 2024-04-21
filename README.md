@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Shiqi Wang.
+
+[![wakatime](https://wakatime.com/badge/user/018f003a-0ee4-4ae8-9cbe-1bd8bb223f37.svg)](https://wakatime.com/@018f003a-0ee4-4ae8-9cbe-1bd8bb223f37)
+
 
 <!--
 **wsqstar/wsqstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
