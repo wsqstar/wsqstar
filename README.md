@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I'm Shiqi Wang.
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsqstar&layout=compact&theme=dark&hide=html" alt="Shiqi Wang's github stats"/>
 [![wakatime](https://wakatime.com/badge/user/018f003a-0ee4-4ae8-9cbe-1bd8bb223f37.svg)](https://wakatime.com/@018f003a-0ee4-4ae8-9cbe-1bd8bb223f37)
 ![GitHub User's stars](https://img.shields.io/github/stars/wsqstar?style=flat&link=https%3A%2F%2Fgithub.com%2Fwsqstar)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
