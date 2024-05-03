@@ -5,8 +5,11 @@
 [![wakatime](https://wakatime.com/badge/user/018f003a-0ee4-4ae8-9cbe-1bd8bb223f37.svg)](https://wakatime.com/@018f003a-0ee4-4ae8-9cbe-1bd8bb223f37)
 ![GitHub User's stars](https://img.shields.io/github/stars/wsqstar?style=flat&link=https%3A%2F%2Fgithub.com%2Fwsqstar)
 
-Major in geographic information science, dedicated to using natural language processing and computer vision to solve urban development problems. See more about me on [blog](https://shiqi.xlog.app/)
+Major in geographic information science, dedicated to using natural language processing and computer vision to solve urban development problems. Master the principle of GIS algorithm and code development, but prefer spatial analysis and socio-economic issues. 
 
+See more about me on [blog](https://shiqi.xlog.app/)
+
+---
 
 ### ✅Skill Stack 
 
