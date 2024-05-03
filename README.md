@@ -1,8 +1,15 @@
-### Hi there 👋 
-I'm Shiqi Wang.
+### Hi there 👋 Thisi is Shiqi Wang.
+---
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsqstar&layout=compact&theme=dark&hide=html" alt="Shiqi Wang's github stats"/>
+
 [![wakatime](https://wakatime.com/badge/user/018f003a-0ee4-4ae8-9cbe-1bd8bb223f37.svg)](https://wakatime.com/@018f003a-0ee4-4ae8-9cbe-1bd8bb223f37)
 ![GitHub User's stars](https://img.shields.io/github/stars/wsqstar?style=flat&link=https%3A%2F%2Fgithub.com%2Fwsqstar)
+
+Major in geographic information science, dedicated to using natural language processing and computer vision to solve urban development problems. See more about me on [blog](https://shiqi.xlog.app/)
+
+
+### ✅Skill Stack 
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)](https://html.spec.whatwg.org)
 [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
@@ -26,8 +33,7 @@ I'm Shiqi Wang.
 ![](https://img.shields.io/badge/-&-39C5BB?style=flat-square)
 [![Chinese](https://img.shields.io/badge/-Chinese-DE2910?style=flat-square&logo=china&logoColor=white)](#)
 [![English](https://img.shields.io/badge/-English-1C4079?style=flat-square&logo=unitedkingdom&logoColor=white)](#)
-
-#### Learning
+### 📖Learning
 [![PyTorch](https://img.shields.io/badge/-PyTorch-e74a2b?style=flat-square&logo=PyTorch&logoColor=fff)](https://pytorch.org/)
 
 
@@ -41,10 +47,5 @@ I'm Shiqi Wang.
 - 🔭 I’m currently working on GeoAI.
 - 🌱 I’m currently learning Spatial Accessibility.
 - 👯 I’m looking to collaborate on GIS, Transport.
-- 🤔 I’m looking for help with coding!
-- 💬 Ask me about ...
-- 📫 How to reach me: bento.me/shiqi
+- 📫 How to reach me: [bento.me/shiqi](bento.me/shiqi)
 
-<!--
-<figure><embed src="https://wakatime.com/share/@018f003a-0ee4-4ae8-9cbe-1bd8bb223f37/707a9c5f-7a62-43bf-a020-541890ed5f31.svg"></embed></figure>
--->
