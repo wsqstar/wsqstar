@@ -1,4 +1,4 @@
-### Hi there 👋 Thisi is Shiqi Wang.
+### Hi there 👋 This is Shiqi Wang.
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsqstar&layout=compact&theme=dark&hide=html" alt="Shiqi Wang's github stats"/>
 
