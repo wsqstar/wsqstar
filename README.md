@@ -52,3 +52,19 @@ See more about me on [blog](https://shiqi.xlog.app/)
 - 👯 I’m looking to collaborate on GIS, Transport.
 - 📫 How to reach me: [bento.me/shiqi](bento.me/shiqi)
 
+## PGP
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZmWFchYJKwYBBAHaRw8BAQdAjocoVLriWNvA0usxJq7YxqTP6ScX7J9Mao6+
+kgmxFF+0HVNoaXFpIFdhbmcgPHF0ZWNAb3V0bG9vay5jb20+iJMEExYKADsWIQRC
+I9YjZHwg67hHYUufP8qgKmQe8QUCZmWFcgIbIwULCQgHAgIiAgYVCgkICwIEFgID
+AQIeBwIXgAAKCRCfP8qgKmQe8VIjAP9/wm2287vZQHKGxIFb5lnu821NvI3hBKja
+t8U9efKuOwD+LbkGVtQwSD6ZEtozuNpFxT8XtBBuQicZyg4cwXUppwW4OARmZYVy
+EgorBgEEAZdVAQUBAQdAGy1C6ygKuKFQU44ReBpLGp+gRvKw6hQGGVzdKybOFgoD
+AQgHiHgEGBYKACAWIQRCI9YjZHwg67hHYUufP8qgKmQe8QUCZmWFcgIbDAAKCRCf
+P8qgKmQe8Q9dAP9/gVBFZxQ8O6R5K3CoyjvcRvgH99nxSHKY1eM32jNEZwD9GhoY
+9E9CgbdiqsB1iv1ROpz0V9/gNqte54tmtczZgwk=
+=vpuX
+-----END PGP PUBLIC KEY BLOCK-----
+
+
