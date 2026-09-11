@@ -8,7 +8,7 @@
 PhD student in Urban Governance and Design Thrust, Society Hub, HKUST(GZ), from 25 Fall. Now focusing on world model and urban dynamics.
 During my master degree, I was major in geographic information science, dedicated to using natural language processing and computer vision to solve urban development problems. Master the principle of GIS algorithm and code development, but prefer spatial analysis and socio-economic issues. 
 
-See more about me on [blog](https://shiqi.xlog.app/)
+See more about me on [blog](https://shiqi-wang.com/)
 
 ---
 
